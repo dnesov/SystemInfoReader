@@ -9,7 +9,6 @@ Download binaries in the **Releases** tab. Start the app, and the sysinfo.txt fi
 
 ## Future features:
 * Nice UI
-* Flops calculator
 
 ## Installing deps
 ```npm i```,
